@@ -31,4 +31,4 @@ Results tested on centos7,but same script can be executed on any linux distribut
 
 1). After script execution fatab.yaml entries present in /etc/fstab directory.
 
-2). For results you can refer resultfstab.
+2). For results you can refer results-fstab.
